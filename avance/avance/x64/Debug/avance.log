@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(115,16): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(234,54): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(235,61): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(236,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(237,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(238,50): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(596,58): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(597,58): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(598,44): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(599,42): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(600,46): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(601,48): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(602,48): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(603,51): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(604,55): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(580,9): warning C4101: 'perfil': variable local sin referencia
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(605,9): warning C4101: 'usuarios_nombre_registro': variable local sin referencia
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(937,51): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(938,47): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(939,53): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(940,52): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(941,48): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\karla\source\repos\datos1\avance\avance\Source.cpp(929,10): warning C4101: 'perfil': variable local sin referencia
+  avance.vcxproj -> C:\Users\karla\source\repos\datos1\avance\x64\Debug\avance.exe
